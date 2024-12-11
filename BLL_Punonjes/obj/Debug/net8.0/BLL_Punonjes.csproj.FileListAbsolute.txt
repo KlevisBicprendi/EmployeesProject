@@ -1,0 +1,17 @@
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\BLL_Punonjes.deps.json
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\BLL_Punonjes.runtimeconfig.json
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\BLL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\BLL_Punonjes.pdb
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.pdb
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.csproj.AssemblyReference.cache
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.AssemblyInfoInputs.cache
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.AssemblyInfo.cs
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.csproj.CoreCompileInputs.cache
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Puno.1BB9A092.Up2Date
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\refint\BLL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.pdb
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\BLL_Punonjes.genruntimeconfig.cache
+C:\Users\Klevi\source\repos\Employees\BLL_Punonjes\obj\Debug\net8.0\ref\BLL_Punonjes.dll

@@ -1,0 +1,14 @@
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.deps.json
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.runtimeconfig.json
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\bin\Debug\net8.0\DAL_Punonjes.pdb
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.csproj.AssemblyReference.cache
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.AssemblyInfoInputs.cache
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.AssemblyInfo.cs
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.csproj.CoreCompileInputs.cache
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\refint\DAL_Punonjes.dll
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.pdb
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\DAL_Punonjes.genruntimeconfig.cache
+C:\Users\Klevi\source\repos\Employees\DAL_Punonjes\obj\Debug\net8.0\ref\DAL_Punonjes.dll

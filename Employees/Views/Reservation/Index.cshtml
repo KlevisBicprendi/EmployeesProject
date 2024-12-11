@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Employees.ViewModels.ReservationViewModel>
+@inject BLL_Punonjes.Services.Scoped.IEmployerService employerService;
+@{
+    ViewData["Title"] = "Reservation Index";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.Display("Employer Name")</th>
+            <th>@Html.DisplayNameFor(model => model.Purpose)</th>
+            <th>@Html.DisplayNameFor(model => model.Offer)</th>
+            <th>@Html.DisplayNameFor(model => model.Status)</th>
+            <th>@Html.DisplayNameFor(model => model.CreatedOn)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.Display(employerService.GetEmployerById(item.EmployerId).Result.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Purpose)</td>
+                <td>@Html.DisplayFor(modelItem => item.Offer)</td>
+                <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreatedOn)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

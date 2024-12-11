@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Klevi\\source\\repos\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B888B9F-71C1-44F2-AED3-A263660A0F37}|BLL_Punonjes\\BLL_Punonjes.csproj|c:\\users\\klevi\\source\\repos\\employees\\bll_punonjes\\services\\scoped\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B888B9F-71C1-44F2-AED3-A263660A0F37}|BLL_Punonjes\\BLL_Punonjes.csproj|solutionrelative:bll_punonjes\\services\\scoped\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAE94AA-60BB-4796-9E85-36473D8A7F04}|Employees\\Employees.csproj|c:\\users\\klevi\\source\\repos\\employees\\employees\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAE94AA-60BB-4796-9E85-36473D8A7F04}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B888B9F-71C1-44F2-AED3-A263660A0F37}|BLL_Punonjes\\BLL_Punonjes.csproj|c:\\users\\klevi\\source\\repos\\employees\\bll_punonjes\\services\\scoped\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B888B9F-71C1-44F2-AED3-A263660A0F37}|BLL_Punonjes\\BLL_Punonjes.csproj|solutionrelative:bll_punonjes\\services\\scoped\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF361091-55C2-484B-894F-9072BD2A29E8}|DAL_Punonjes\\DAL_Punonjes.csproj|c:\\users\\klevi\\source\\repos\\employees\\dal_punonjes\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF361091-55C2-484B-894F-9072BD2A29E8}|DAL_Punonjes\\DAL_Punonjes.csproj|solutionrelative:dal_punonjes\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Klevi\\source\\repos\\Employees\\DAL_Punonjes\\UNITOFWORK\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL_Punonjes\\UNITOFWORK\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Klevi\\source\\repos\\Employees\\DAL_Punonjes\\UNITOFWORK\\UnitOfWork.cs",
+              "RelativeToolTip": "DAL_Punonjes\\UNITOFWORK\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:22:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Klevi\\source\\repos\\Employees\\BLL_Punonjes\\Services\\Scoped\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "BLL_Punonjes\\Services\\Scoped\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Klevi\\source\\repos\\Employees\\BLL_Punonjes\\Services\\Scoped\\ServiceManager.cs",
+              "RelativeToolTip": "BLL_Punonjes\\Services\\Scoped\\ServiceManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:11:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Klevi\\source\\repos\\Employees\\Employees\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Klevi\\source\\repos\\Employees\\Employees\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:10:02.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\Klevi\\source\\repos\\Employees\\BLL_Punonjes\\Services\\Scoped\\EmployerService.cs",
+              "RelativeDocumentMoniker": "BLL_Punonjes\\Services\\Scoped\\EmployerService.cs",
+              "ToolTip": "C:\\Users\\Klevi\\source\\repos\\Employees\\BLL_Punonjes\\Services\\Scoped\\EmployerService.cs",
+              "RelativeToolTip": "BLL_Punonjes\\Services\\Scoped\\EmployerService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:30:03.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
